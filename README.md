@@ -1,12 +1,6 @@
 # PillReminder.md
 
-![](https://github.com/sammts/PillReminder_Android/blob/master/app/src/main/res/drawable/logo_sn.png)
-
-**Tabla de contenido**
-
-[TOCM]
-
-[TOC]
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282014-2019%29.png" width="250" height="250" />
 
 # Objetivo del app.
 
@@ -14,13 +8,13 @@ El objetivo de la aplicación es que los usuarios puedan compartir con las perso
 
 # Descripción del logo y lo que representa.
 
-![](https://drive.google.com/file/d/1eqIIfeD9S1Xq3VXMBGpZ-eNx786I7bft/view?usp=sharing)
+<img src="https://github.com/sammts/PillReminder_Android/blob/master/app/src/main/res/drawable/logo_sn.png" width="200" height="200" />
 
-El logo es un reloj y en el centro tiene plasmado una pastilla, esto simboliza como el nombre de la app lo menciona, un recordatorio de medicamentos.
+El logo es un reloj y en el centro tiene plasmado una pastilla, esto simboliza como el nombre de la app lo menciona, un recordatorio para el consumo adecuado de los medicamentos indicados.
 
 # Justificación de la elección del tipo de dispositivo, versión del sistema operativo y las orientaciones soportadas.
 
-
+La aplicación está soportada para versiones de Android 6.0 (Marshmallow), esto ya que es compatible con el 98.2% de dispositivos en el mercado, lo cual la hace tener una gran compatibilidad, de igual manera solo soporta orientación vertical para una mejor experiencia del usuario.
 
 # Credenciales para poder acceder al app (si se requieren). Si no proporcionas un usuario y contraseña, y no se puede revisar el app, se considerará como no entregada.
 
